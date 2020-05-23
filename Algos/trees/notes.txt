@@ -1,0 +1,4 @@
+Adjacency-Matrics - Dense Graphs
+Adjacency-Lists - Sparse Graphs
+BFS - AI Search Problem
+Graphs - Connected with edges - weighted/unweighted + directed/undirected
